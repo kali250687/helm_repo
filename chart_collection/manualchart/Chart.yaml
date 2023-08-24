@@ -1,5 +1,5 @@
 apiVersion: v2
-name: manualChart
+name: manualchart
 description: first manual char
 
 type: application
