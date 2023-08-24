@@ -3,7 +3,17 @@ entries:
   manualchart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-08-24T19:17:12.646584495Z"
+    created: "2023-08-24T19:35:49.452173863Z"
+    description: first manual char
+    digest: c5a7809698cdf0efc83e997410aa1bc55dbc5baa549f9fbb185b7acb3e90d3cf
+    name: manualchart
+    type: application
+    urls:
+    - docs/manualchart-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-08-24T19:35:49.451911266Z"
     description: first manual char
     digest: 94b9d14fafbf4975cfd82d68105aa326133bd7c67cd9b3c2a6243e7debfa4a24
     name: manualchart
@@ -14,7 +24,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-24T19:17:12.647244915Z"
+    created: "2023-08-24T19:35:49.452700757Z"
     description: A Helm chart for Kubernetes
     digest: e7ba982344fad48079f0f3d2aac267c955aa35e1a107ca5f0eea3bb0f2e37376
     name: mychart
@@ -25,7 +35,7 @@ entries:
   secondchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-24T19:17:12.647977136Z"
+    created: "2023-08-24T19:35:49.453203352Z"
     description: A Helm chart for Kubernetes
     digest: edd9127b5392183714a90f061b4f66619a246812e9fccc1d6bf587d8080eb9c8
     name: secondchart
@@ -33,4 +43,4 @@ entries:
     urls:
     - docs/secondchart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-24T19:17:12.646037379Z"
+generated: "2023-08-24T19:35:49.451477771Z"
