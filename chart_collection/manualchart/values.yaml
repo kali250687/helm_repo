@@ -1,0 +1,11 @@
+appName: testapp
+image: nginx:1.14.2
+imageName: nginx
+app: testapp
+service:
+  type: NodePort
+  port: 8080
+  containerPort: 8080
+
+chartNameForTest: testChart
+chartFolder: manualchart/

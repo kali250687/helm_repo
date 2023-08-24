@@ -1,0 +1,17 @@
+apiVersion: v2
+name: manualChart
+description: first manual char
+
+type: application
+
+version: 0.0.1
+
+appVersion: 1.0.0
+
+
+
+
+
+
+
+

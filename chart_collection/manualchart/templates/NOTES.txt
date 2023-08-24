@@ -1,0 +1,3 @@
+Here will be the instructions
+Service {{ .Values.appName }}
+For testing execute helm install --dry-run {{ .Values.chartNameForTest }} {{ .Values.chartFolder}}
