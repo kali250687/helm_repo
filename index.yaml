@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  manualChart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-08-24T19:05:32.63119913Z"
+    description: first manual char
+    digest: 5f5dbff9fb7fc999b79ff7d98c981a5c98cace14439b27b7576da99a9508cbe4
+    name: manualChart
+    type: application
+    urls:
+    - docs/manualChart-0.0.1.tgz
+    version: 0.0.1
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-24T17:34:34.031952337Z"
+    created: "2023-08-24T19:05:32.633249259Z"
     description: A Helm chart for Kubernetes
     digest: e7ba982344fad48079f0f3d2aac267c955aa35e1a107ca5f0eea3bb0f2e37376
     name: mychart
@@ -14,7 +25,7 @@ entries:
   secondchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-24T17:34:34.032590226Z"
+    created: "2023-08-24T19:05:32.633847668Z"
     description: A Helm chart for Kubernetes
     digest: edd9127b5392183714a90f061b4f66619a246812e9fccc1d6bf587d8080eb9c8
     name: secondchart
@@ -22,4 +33,4 @@ entries:
     urls:
     - docs/secondchart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-24T17:34:34.03124015Z"
+generated: "2023-08-24T19:05:32.630572621Z"
